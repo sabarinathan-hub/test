@@ -1,6 +1,6 @@
-usr_nick_name = input("Enter your nick name : ")
-usr_name = input("Enter the username : ")
-user_passwd = input("Ener the password : ")
+usr_nick_name = "test"
+usr_name = "test_user1"
+user_passwd = "test_user1"
 if usr_name == usr_name and user_passwd == user_passwd:
     print(f"!!  Welcome {usr_nick_name} !!")
 else:
